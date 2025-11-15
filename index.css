@@ -1,6 +1,6 @@
 body{
     /*背景圖*/
-    background-image:url(background-image.jpg) ;
+    background-image:url(image/background-image.jpg) ;
     background-size: cover;
     margin:0px;
 }
@@ -14,7 +14,7 @@ body{
 }
 
 header{
-    background-image: url(pexels-pixabay-220182.jpg);
+    background-image: url(image/pexels-pixabay-220182.jpg);
     background-size: cover; 
     background-attachment: fixed; /* 讓圖片固定在視窗中，捲動頁面時 header 圖片看起來不會移動 */
     background-position: center center; /* 設定圖片的起始位置，這裡設為置中 */
@@ -460,5 +460,6 @@ display: none;
                 width: 70px;
             }
         }
+
 
   
